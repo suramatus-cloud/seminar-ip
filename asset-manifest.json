@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/seminar-ip/static/css/main.e6c13ad2.css",
+    "main.js": "/seminar-ip/static/js/main.af02b8c5.js",
+    "static/js/453.bc92b335.chunk.js": "/seminar-ip/static/js/453.bc92b335.chunk.js",
+    "index.html": "/seminar-ip/index.html",
+    "main.e6c13ad2.css.map": "/seminar-ip/static/css/main.e6c13ad2.css.map",
+    "main.af02b8c5.js.map": "/seminar-ip/static/js/main.af02b8c5.js.map",
+    "453.bc92b335.chunk.js.map": "/seminar-ip/static/js/453.bc92b335.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.af02b8c5.js"
+  ]
+}
